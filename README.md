@@ -1,4 +1,4 @@
-# ssh.help.txt
+# ssh.help.txt=ssh -T git@github.com
 Need to know
 API key=private access
 9799ca1eb5a7d643d15b3b309548e043dfd70
