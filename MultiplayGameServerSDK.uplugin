@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Multiplay Game Server SDK",
+	"Description": "The SDK provides all of the functionality necessary to integrate your game server with Multiplay.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Unity Technologies",
+	"CreatedByURL": "http://unity.com",
+	"DocsURL": "https://docs.unity.com/multiplay",
+	"MarketplaceURL": "",
+	"SupportURL": "https://support.unity.com/",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MultiplayGameServerSDK",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+	],
+	"Plugins": [
+	]
+}
